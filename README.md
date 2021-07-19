@@ -1,2 +1,0 @@
-# Hostify
-Sample Landing Page
